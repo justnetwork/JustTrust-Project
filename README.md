@@ -19,7 +19,7 @@
 
 
 ## Disclaimer: ##
-1. Wahrscheinlich alle Mitwirkenden arbeiten freiwillig und in Ihrer Freizeit an diesem Projekt, die meisten haben Vollzeitstellen, daher existiert zu keiner Zeit, von keinem, ein Anspruch auf Leistungserbringen was Zeitpunkte, Quantitaet, Qualitaet angeht
+1. Wahrscheinlich alle Mitwirkenden arbeiten freiwillig und in Ihrer Freizeit an diesem Projekt, die meisten haben Vollzeitstellen, daher existiert zu keiner Zeit, von keinem, ein Anspruch auf Leistungserbringung was Zeitpunkte, Quantitaet, Qualitaet angeht
 2. Es ist und bleibt ein Spassprojekt
 3. Es existiert zu keiner Zeit ein Anpruch auf technische Leistungserbringen (Serveruptimes, SLAs, usw.) sei es in der internen Projektarbeit oder extern zu Poolnutzern Webseitenbesuchern
 4. Die Projektfuehrung wird initial durch Sebastian "Edur" Kremer (und hoffentlich 1-2 anderen Mitstreitern) weitgehend im Konsensverfahren geleitet. Die Projektfuehrung kann jederzeit wechseln
@@ -27,7 +27,7 @@
 ## ToDo: ##
 
 - Projektname festlegen
-    - Vorschlag SKR: JustTrust (*.justtrust.eu ; z.B. https://upx.justtrust.eu) in Anlehnung an das JustNetwork (wird aber unabhaenig vom JustNetwork agieren aus rechtlicher Sicht
+    - Vorschlag SKR: JustXXXXX (justXXXXX.eu ; z.B. https://upx.justXXXXX.eu) in Anlehnung an das JustNetwork (wird aber unabhaenig vom JustNetwork agieren aus rechtlicher Sicht
 - Logo des Projekts / der Organisations festlegen
     - Vorschlag SKR: Hexagon Logo (bereits gekauft) in Anlehnung an das JustNetwork Logo
 - Designguide / Styleguide (grob) definieren
