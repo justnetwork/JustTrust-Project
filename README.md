@@ -27,7 +27,7 @@
 ## ToDo: ##
 
 - Projektname festlegen
-    - Vorschlag SKR: JustXXXXX (justXXXXX.eu ; z.B. https://upx.justXXXXX.eu) in Anlehnung an das JustNetwork (wird aber unabhaenig vom JustNetwork agieren aus rechtlicher Sicht
+    - Vorschlag SKR: JustXXXXX (justXXXXX.eu ; z.B. https://upx.justXXXXX.eu) in Anlehnung an das JustNetwork (wird aber unabhaenig vom JustNetwork agieren aus rechtlicher Sicht)
 - Logo des Projekts / der Organisations festlegen
     - Vorschlag SKR: Hexagon Logo (bereits gekauft) in Anlehnung an das JustNetwork Logo
 - Designguide / Styleguide (grob) definieren
